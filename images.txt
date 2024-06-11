@@ -4,4 +4,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 --platform=linux/arm64 haroldli/xiaoya-tvbox:latest
-portainer/portainer:linux-arm64-2.0.1
+--platform=linux/arm64 portainer/portainer-ce:2.14.0
