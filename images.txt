@@ -1,1 +1,1 @@
---platform=linux_arm64 haroldli/xiaoya-tvbox:latest
+--platform=linux/arm64 haroldli/xiaoya-tvbox:latest
